@@ -1,4 +1,5 @@
 # 🇹🇭 Vue Thailand Address
+
 [![license](https://img.shields.io/github/license/gluons/vue-thailand-address.svg?style=flat-square)](./LICENSE)
 [![vue >=2.4](https://img.shields.io/badge/vue-%3E%3D2.4-42b983.svg?style=flat-square)](https://vuejs.org)
 [![npm](https://img.shields.io/npm/v/vue-thailand-address.svg?style=flat-square)](https://www.npmjs.com/package/vue-thailand-address)
@@ -8,6 +9,10 @@
 [![Travis (.org)](https://img.shields.io/travis/gluons/vue-thailand-address.svg?style=flat-square)](https://travis-ci.org/gluons/vue-thailand-address)
 [![TSLint](https://img.shields.io/badge/TSLint-gluons-15757B.svg?style=flat-square)](https://github.com/gluons/tslint-config-gluons)
 [![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square)](https://github.com/carloscuesta/gitmoji)
+
+## Update
+
+Using latest db.json 2019 version
 
 ตัวช่วยกรอกที่อยู่ของไทย สำหรับ [Vue](https://vuejs.org) (ปราศจาก jQuery 🎉)
 
@@ -36,4 +41,3 @@ yarn add vue-thailand-address
 ## 📝 แผน
 
 ดูได้ที่ https://github.com/gluons/vue-thailand-address/projects
-
